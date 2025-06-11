@@ -5,7 +5,7 @@ This is my personal portfolio website showcasing my skills, experience, and work
 ---
 
 ## 🌟 **Live Demo**
-[View Live Website](https://your-username.github.io/your-repo-name/) 
+[View Live Website](https://sudip-sasquash0x01.github.io/College-work-SemII-2/home.html) 
 
 ---
 
